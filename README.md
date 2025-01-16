@@ -1,4 +1,4 @@
 Kadas Ephemeris Plugin
 ======================
 
-Uses pyephem to compute sun and moon ephemeris for a selected map position.
+this plugin has been migrated to https://github.com/kadas-albireo/kadas-albireo2
